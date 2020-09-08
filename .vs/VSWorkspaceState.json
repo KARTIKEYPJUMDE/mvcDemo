@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\githubfirst",
+    "\\githubfirst\\githubfirst",
+    "\\githubfirst\\githubfirst\\Models",
+    "\\githubfirst\\githubfirst\\obj",
+    "\\githubfirst\\packages"
   ],
   "PreviewInSolutionExplorer": false
 }
